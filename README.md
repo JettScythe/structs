@@ -1,2 +1,2 @@
 # structs
-practice with structs in golang
+practice with structs & pointers in golang
